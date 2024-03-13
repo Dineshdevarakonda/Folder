@@ -1,6 +1,7 @@
 "# Folder "
 
-
+javac filename.java
+java filename.java
 
 git add .
 git commit -m ""
